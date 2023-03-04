@@ -1,0 +1,18 @@
+Code for 1:
+
+num=int(input("Enter the number you want to check for: "))
+if num >  0:
+    print("The number that you have entered is a Positive Number")
+else:
+    if num == 0:
+        print("The number that you have entered is Zero")
+    else:
+        if num < 0:
+            print("The number that you have entered is Negative Number")
+        else:
+            print("The number you have entered is a complex number")
+
+Code for 2:
+
+
+

@@ -1,0 +1,16 @@
+print('Different DataTypes present in python programing')
+Name="Varun Sethi"
+print("Varun Sethi")
+print(type(Name))
+Age="20"
+print("20")
+print(type(Age))
+Intrest=["Sleeping","Eating","Travelling"]
+print(["Sleeping","Eating","Travelling"])
+print(type(Intrest))
+Travelling_Destination=("Mountains","Beaches")
+print(("Mountains","Beaches"))
+print(type(Travelling_Destination))
+Order_of_Priority={1:"Parents",2:"Pepper Spray",3:"Siddhant",4:"Family Members"}
+print({1:"Parents",2:"Pepper Spray",3:"Siddhant",4:"Family Members"})
+print(type(Order_of_Priority))

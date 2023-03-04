@@ -1,0 +1,6 @@
+import os
+#os.mkdir("d:\\OS_Module_Create_Directory_Test")
+#os.chdir("e:\\OS_Module_Create_Directory_Test")
+#os.getcwd()
+os.rmdir()
+os.listdir()
